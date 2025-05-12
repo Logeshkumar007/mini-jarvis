@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: "your-key" });
+const ai = new GoogleGenAI({ apiKey: "your-keyy" });
 
 const getChatGptResponse = async (text) => {
   try {
